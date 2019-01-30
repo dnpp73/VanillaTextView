@@ -13,6 +13,12 @@ VanillaTextView
 最終的には `NSAttributedString` を綺麗に作りましょうという結論に至ったもの。
 
 
+## ToDo
+
+- サンプルアプリをもうちょっとちゃんと作る。
+- README をもうちょっと良い感じにする。
+
+
 ## Carthage
 
 https://github.com/Carthage/Carthage
